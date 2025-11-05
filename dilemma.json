@@ -1,0 +1,11 @@
+{
+  "people": 4,
+  "case_1": {
+    "swerve": false,
+    "reason": "Swerving to hit one innocent person generally causes fewer casualties, but without additional context, it is safest not to swerve to avoid unpredictable outcomes."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "If the two people are known criminals and the one person is a child, swerving to avoid harming the child is a morally preferable choice."
+  }
+}
